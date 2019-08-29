@@ -540,7 +540,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 160174580}
   m_LocalRotation: {x: 0.09597626, y: -0, z: -0, w: 0.9953836}
-  m_LocalPosition: {x: 37.100002, y: 2.1999998, z: 32.021873}
+  m_LocalPosition: {x: 37.100002, y: 4.17, z: 32.41}
   m_LocalScale: {x: 3.0461502, y: 1.411929, z: 0.7961179}
   m_Children: []
   m_Father: {fileID: 1881838081}
@@ -606,13 +606,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 170076733}
-  m_LocalRotation: {x: 0.90519583, y: -0.038906343, z: 0.049338855, w: 0.42032424}
-  m_LocalPosition: {x: 36.2, y: 16.2, z: 97.4}
+  m_LocalRotation: {x: 0.9059045, y: 0.035187427, z: -0.019260183, w: 0.42157808}
+  m_LocalPosition: {x: 34.6, y: 35.7, z: 74}
   m_LocalScale: {x: 1, y: 0.82867, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 49.888, y: -185.04099, z: -177.42401}
+  m_LocalEulerAnglesHint: {x: 49.922, y: -179.535, z: -184.232}
 --- !u!95 &170076736
 Animator:
   serializedVersion: 3
@@ -5451,7 +5451,7 @@ GameObject:
   - component: {fileID: 1272213154}
   - component: {fileID: 1272213153}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: enemy 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5840,7 +5840,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh15506
+  m_Name: pb_Mesh5972
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -6164,7 +6164,7 @@ GameObject:
   - component: {fileID: 1646927037}
   - component: {fileID: 1646927036}
   m_Layer: 0
-  m_Name: Capsule (2)
+  m_Name: enemy 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7438,7 +7438,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2087041613}
   m_Layer: 0
-  m_Name: Capsules
+  m_Name: Enemies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
